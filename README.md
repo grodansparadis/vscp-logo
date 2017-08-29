@@ -7,6 +7,6 @@ Font for text is <a href="https://www.fontsquirrel.com/fonts/arvo">Arvo</a>.
 
 Libre office is used to edit the odg file.
 
-The logo is free to use for any VSCP project.
+The logo is free to use for any VSCP project. License is Creative Commons Attribution.
 
 Copyright (C) 2000-2017 Åke Hedman, Grodans Paradis AB
