@@ -3,7 +3,7 @@
 
 This is the official logo for the VSCP project.
 
-Font for text is Arvo.
+Font for text is <a href="https://www.fontsquirrel.com/fonts/arvo">Arvo</a>.
 
 Libre office is used to edit the odg file.
 
